@@ -1,0 +1,7 @@
+C:\Users\ianni\source\repos\Programa#3\Programa#3\bin\Debug\Programa#3.exe.config
+C:\Users\ianni\source\repos\Programa#3\Programa#3\bin\Debug\Programa#3.exe
+C:\Users\ianni\source\repos\Programa#3\Programa#3\bin\Debug\Programa#3.pdb
+C:\Users\ianni\source\repos\Programa#3\Programa#3\obj\Debug\Programa#3.csproj.AssemblyReference.cache
+C:\Users\ianni\source\repos\Programa#3\Programa#3\obj\Debug\Programa#3.csproj.CoreCompileInputs.cache
+C:\Users\ianni\source\repos\Programa#3\Programa#3\obj\Debug\Programa#3.exe
+C:\Users\ianni\source\repos\Programa#3\Programa#3\obj\Debug\Programa#3.pdb

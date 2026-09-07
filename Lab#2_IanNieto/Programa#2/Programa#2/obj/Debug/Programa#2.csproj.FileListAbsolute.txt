@@ -1,0 +1,7 @@
+C:\Users\ianni\source\repos\Programa#2\Programa#2\bin\Debug\Programa#2.exe.config
+C:\Users\ianni\source\repos\Programa#2\Programa#2\bin\Debug\Programa#2.exe
+C:\Users\ianni\source\repos\Programa#2\Programa#2\bin\Debug\Programa#2.pdb
+C:\Users\ianni\source\repos\Programa#2\Programa#2\obj\Debug\Programa#2.csproj.AssemblyReference.cache
+C:\Users\ianni\source\repos\Programa#2\Programa#2\obj\Debug\Programa#2.csproj.CoreCompileInputs.cache
+C:\Users\ianni\source\repos\Programa#2\Programa#2\obj\Debug\Programa#2.exe
+C:\Users\ianni\source\repos\Programa#2\Programa#2\obj\Debug\Programa#2.pdb
