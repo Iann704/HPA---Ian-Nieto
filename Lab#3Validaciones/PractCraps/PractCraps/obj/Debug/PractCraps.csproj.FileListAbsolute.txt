@@ -1,0 +1,7 @@
+C:\Users\ianni\source\repos\PractCraps\PractCraps\bin\Debug\PractCraps.exe.config
+C:\Users\ianni\source\repos\PractCraps\PractCraps\bin\Debug\PractCraps.exe
+C:\Users\ianni\source\repos\PractCraps\PractCraps\bin\Debug\PractCraps.pdb
+C:\Users\ianni\source\repos\PractCraps\PractCraps\obj\Debug\PractCraps.csproj.AssemblyReference.cache
+C:\Users\ianni\source\repos\PractCraps\PractCraps\obj\Debug\PractCraps.csproj.CoreCompileInputs.cache
+C:\Users\ianni\source\repos\PractCraps\PractCraps\obj\Debug\PractCraps.exe
+C:\Users\ianni\source\repos\PractCraps\PractCraps\obj\Debug\PractCraps.pdb
